@@ -4,7 +4,9 @@ A clean, lightweight static checklist tool that helps business owners plan and p
 
 The checklist helps review app goals, target users, core features, platform choices, user experience, backend systems, payments, notifications, security, testing, app store launch, and post-launch support.
 
-Live Demo: Coming soon
+Live Demo: https://morphius999.github.io/prologica-mobile-app-launch-checklist/
+
+This free checklist was created by Pro Logica to help business owners plan a mobile app before development and launch.
 
 Built by Pro Logica: https://www.prologica.ai
 
